@@ -12,7 +12,7 @@ title                    : "Assistant Professor"
 title_separator          : ""
 name                     : &name "Xinhao He"
 description              : &description "personal description"
-url                      : https://hoshinoktu.github.io/he-xinhao/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : "https://hoshinoktu.github.io/he-xinhao/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "" # academicpages/academicpages.github.io
 
@@ -22,13 +22,13 @@ repository               : "" # academicpages/academicpages.github.io
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "" # Your Sidebar Name
+  name             : "Basic Information" # Your Sidebar Name
   pronouns         : "Dr. He" # example: "she/her"  
   bio              : "Researcher"
   location         : "JP/CN"
   employer         : "Tohoku University"
-  URI              : ""# URL
-  email            : "xinhao.he.a8[at]tohoku.ac.jp" 
+  URI              : "" # URL
+  email            : "xinhao.he.a8@tohoku.ac.jp" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
