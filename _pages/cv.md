@@ -24,9 +24,3 @@ Work experience
   * Tohoku University (Graduate School of Engineering)
 
 * For more details, please refer to the [Researchmap](https://researchmap.jp/xinhao.he_1520)
-
-# Publications
-# ======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
