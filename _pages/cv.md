@@ -11,27 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Engineering (Department of Urban Management), Kyoto University, 2020
+* M.S. in Engineering (Department of Urban Management), Kyoto University, 2017
+* B.S. in Civil Engineering, Southeast University, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2020: Assistant Professor
+  * Tohoku University (Graduate School of Engineering)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Assistant Professor (Prominent Researcher)
+  * Tohoku University (Graduate School of Engineering)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* For more details, please refer to researchmap (https://researchmap.jp/xinhao.he_1520)
+<!---
 Skills
 ======
 * Skill 1
@@ -62,3 +55,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
