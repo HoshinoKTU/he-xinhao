@@ -23,7 +23,7 @@ Work experience
 * Summer 2015: Assistant Professor (Prominent Researcher)
   * Tohoku University (Graduate School of Engineering)
 
-* For more details, please refer to researchmap (https://researchmap.jp/xinhao.he_1520)
+* For more details, please refer to the [Researchmap] (https://researchmap.jp/xinhao.he_1520)
 <!---
 Skills
 ======
