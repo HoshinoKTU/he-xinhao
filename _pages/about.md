@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is a test run acadamic homepage of HXH. 
-
----
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+(This is a test run academic homepage of HXH.) Dr. He is currently an assistant professor at Tohoku University (Graduate school of Engineering), Japan. Dr. He's research addresses various challenges in bridge structures, focusing on structural dynamics, earthquake engineering, and data assimilation. His interests include the development and implementation of next-generation seismic response modification devices (Innovative Seismic System Creation, ISSC), innovative structural performance assessment approaches (ISPA), and life-span maintenance management techniques (LMMT) that combine physics-based and data-driven methods. For details, please refer to the [Reseachermap] (https://researchmap.jp/xinhao.he_1520). 
 
 A data-driven personal website
 ======
