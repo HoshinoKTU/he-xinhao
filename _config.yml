@@ -22,11 +22,11 @@ repository               : "https://github.com/HoshinoKTU/he-xinhao" #
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Basic Information" # Your Sidebar Name
+  name             : "Xinhao He" # Your Sidebar Name
   pronouns         : "Dr. He" # example: "she/her"  
-  bio              : "Researcher"
+  bio              : "B. Eng (Southeast U.), M. Eng & Ph.D (Kyoto U.)"
   location         : "JP/CN"
-  employer         : "Graduate School of Engineering, Tohoku University"
+  employer         : "Tohoku University, JAPAN"
   URI              : # URL
   email            : "xinhao.he.a8@tohoku.ac.jp" 
 
