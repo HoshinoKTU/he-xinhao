@@ -27,7 +27,7 @@ author:
   bio              : "Researcher"
   location         : "JP/CN"
   employer         : "Tohoku University"
-  URI              : "" # URL
+  URI              : # URL
   email            : "xinhao.he.a8@tohoku.ac.jp" 
 
   # Academic websites
