@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "JP/CN"
+locale                   : "en-JP"
 title                    : "Assistant Professor"
 title_separator          : "-"
 name                     : &name "Xinhao He"
