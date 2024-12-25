@@ -9,4 +9,4 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 How to edit your site's GitHub repository
 ------
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![talk](/images/editing-talk.png "Magic Gardens")
