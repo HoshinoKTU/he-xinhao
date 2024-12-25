@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Test run web page"
+title: "Research interests"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Research interests
-=====
 (This is a test run academic homepage of HXH.) Dr. He is currently an assistant professor at Tohoku University (Graduate school of Engineering), Japan. Dr. He's research addresses various challenges in bridge structures, focusing on structural dynamics, earthquake engineering, and data assimilation. His interests include the development and implementation of next-generation seismic response modification devices (Innovative Seismic System Creation, ISSC), innovative structural performance assessment approaches (ISPA), and life-span maintenance management techniques (LMMT) that combine physics-based and data-driven methods. For details, please take a look at the [Researchmap](https://researchmap.jp/xinhao.he_1520). 
 
 Innovative Seismic System Creation (ISSC)
