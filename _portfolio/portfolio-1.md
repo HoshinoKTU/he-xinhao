@@ -6,7 +6,5 @@ collection: portfolio
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-How to edit your site's GitHub repository
-------
 Example: editing a markdown file for a talk
 ![talk](/images/editing-talk.png "Magic Gardens")
